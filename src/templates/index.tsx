@@ -71,7 +71,7 @@ const Search: Template<TemplateRenderProps> = ({ document }) => {
       {/* Logo */}
       <a href="#" id="global-nav-logo">
         <img
-          src="./assets/images/capital-bank-logo-horizontal-small.png"
+          src="https://generated-assets.prod.myninja.ai/2cf3d876-7b13-4ab5-898e-79639f2892f4/c91c11b7-6813-4702-8076-dc4bcb080e20_3.jpeg"
           alt="Capital Fins Bank Logo"
           className="logo"
           aria-label="Capital Fins Bank Logo"
@@ -180,8 +180,7 @@ const Search: Template<TemplateRenderProps> = ({ document }) => {
           <figcaption>
             <h3>Loans and Financing</h3>
             <p>
-              Whether it's a home, car, education, or your dream vacation, we're with you every step
-              of the way.
+              Whether it's a home, car, education, or your dream vacation, we're with you every step.
             </p>
             <a href="#" className="cta-button" aria-label="Learn More About Loans and Financing">
               Learn More
